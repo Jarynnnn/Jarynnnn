@@ -14,7 +14,7 @@ console.log('Bot Succesfully Logged In!')
 // first command
 client.on('message', (message) => {
     if (message.content.startsWith('!info')) {
-    message.channel.send('Hello! My name is Jaryn, your average weirdo/javascript dev! I also use Lua, C#, Python, and I'm learning C++.')
+    message.channel.send('Hello! My name is Jaryn, your average weirdo/javascript dev! I also use Lua, C#, Python, and I\'m learning C++.'
     
     }
     }
@@ -39,7 +39,7 @@ client.on('message', (message) => {
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarynnnn&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarynnnn&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
