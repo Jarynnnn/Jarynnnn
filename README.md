@@ -14,8 +14,9 @@ console.log('Bot Succesfully Logged In!')
 // first command
 client.on('message', (message) => {
     if (message.content.startsWith('!info')) {
-    message.channel.send('Hello! My name is Jaryn, your average weirdo/javascript dev! I also use Lua, C#, Python, and I\'m learning C++.'
-    }}
+    message.channel.send('Hello! My name is Jaryn, your average weirdo/javascript dev! I also use Lua, C#, Python, and I\'m learning C++.')
+    })
+    }
 ```
 
 <h2 align="center">You can reach me at:</h2>
