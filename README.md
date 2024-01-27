@@ -3,26 +3,10 @@
 
 <h2 align="center">About me</h2>
 
-```js
-const Discord = require('discord.js')
-const client = new Discord.Client()
-
-// login
-client.login('token')
-console.log('Bot Succesfully Logged In!')
-
-// first command
-client.on('message', (message) => {
-    if (message.content.startsWith('!info')) {
-    message.channel.send('Hello! My name is Jaryn, your average weirdo/javascript dev! I also use Lua, C#, Python, and I\'m learning C++.')
-    })
-    }
-```
-
 <h2 align="center">You can reach me at:</h2>
 
 <p align="center">
-  <a href="https://jaryn.tech">
+  <a href="https://jarynb.com">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="My Personal Website" height="30" width="30">
   </a>
 
